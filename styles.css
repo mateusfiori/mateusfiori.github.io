@@ -88,9 +88,7 @@ a img{border:0px;}
 	float:left; 
 	margin-right:40px; 
 	border:5px solid #222222;
-	-webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
-	filter: grayscale(100%);
-	border-radius: 50%;
+	border-radius: 30%;
 }
 #about .content #service-icons{margin-top:20px;}
 #about .content #service-icons li{
